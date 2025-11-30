@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_layout_menu_items",
+  "info": {
+    "displayName": "Menu items"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "isBoolean": {
+      "type": "boolean"
+    }
+  },
+  "config": {}
+}
